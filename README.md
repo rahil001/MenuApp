@@ -5,7 +5,7 @@ Node.js version 9.8.0 is no longer supported.
 
 Steps To Run
 
-npm install
-npm start
-npm run ios (For Ios)
-npm run android (For Android)
+1. npm install
+2. npm start
+3. npm run ios (For Ios)
+4. npm run android (For Android)
